@@ -1,4 +1,4 @@
-#Text Summarizer & Comparator (FastAPI)
+Text Summarizer & Comparator (FastAPI)
 
 This project is a web application built with FastAPI that allows users to:
 Summarize input text using a custom summarization service.
